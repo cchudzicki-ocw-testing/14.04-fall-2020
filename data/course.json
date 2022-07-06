@@ -1,0 +1,36 @@
+{
+  "term": "Fall",
+  "year": "2020",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Social Science",
+      "Economics",
+      "Microeconomics"
+    ]
+  ],
+  "legacy_uid": "",
+  "instructors": {
+    "content": [],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "",
+    "website": "intermediate-microeconomic-theory"
+  },
+  "course_title": "Intermediate Microeconomic Theory ",
+  "course_description": "",
+  "department_numbers": [
+    "14"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "14.04",
+  "course_image_thumbnail": {
+    "content": "",
+    "website": "intermediate-microeconomic-theory"
+  },
+  "learning_resource_types": [],
+  "site_uid": "627bf0af-c70d-4173-ab8c-33b6e2268999"
+}
