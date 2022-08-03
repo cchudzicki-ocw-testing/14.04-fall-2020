@@ -19,3 +19,7 @@ leftnav:
   name: Exams
   url: /pages/exams
   weight: 50
+- identifier: 3b949ed2-3914-4005-a75f-836271215bba
+  name: Lecture Slides
+  url: /pages/lecture-slides
+  weight: 60
