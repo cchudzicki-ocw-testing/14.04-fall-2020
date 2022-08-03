@@ -15,3 +15,7 @@ leftnav:
   name: Exams
   url: /pages/exams
   weight: 40
+- identifier: 89d517a2-1d01-42f5-888d-2586368c8681
+  name: Readings
+  url: /pages/readings
+  weight: 50
