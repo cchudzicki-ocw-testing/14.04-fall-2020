@@ -7,15 +7,15 @@ leftnav:
   name: Calendar
   url: /pages/calendar
   weight: 20
-- identifier: 9b20f753-2bf1-44ca-8de7-f6408b422d71
-  name: Assignments
-  url: /pages/assignments
-  weight: 30
-- identifier: f2ec91d8-3e29-4484-8032-8b66ede72d23
-  name: Exams
-  url: /pages/exams
-  weight: 40
 - identifier: 89d517a2-1d01-42f5-888d-2586368c8681
   name: Readings
   url: /pages/readings
+  weight: 30
+- identifier: 9b20f753-2bf1-44ca-8de7-f6408b422d71
+  name: Assignments
+  url: /pages/assignments
+  weight: 40
+- identifier: f2ec91d8-3e29-4484-8032-8b66ede72d23
+  name: Exams
+  url: /pages/exams
   weight: 50
