@@ -124,3 +124,21 @@ Carvalho, Vasco M. and Nirei, Makoto and Saito, Yukiko and Tahbaz-Salehi, Alirez
 \*Kinnan, Cynthia, Krislert Samphantharak, Robert M. Townsend, and Diego Vera Cossio. 2020. “[Insurance and Propagation in Village Networks](https://www.nber.org/papers/w28089).” Working paper, MIT.
 
 Kinnan, C., and Townsend, R.M., 2012. “[Kinship and financial networks, formal financial access, and risk reduction](https://www.aeaweb.org/articles?id=10.1257/aer.102.3.289).” *The American Economic Review*, 102(3): 289-293.
+
+### Lecture 10: Household Financial Accounts, Life Cycle and Cash Mgmt Programming, Bitcoin and Payments on Distributed Ledgers
+
+#### Lecture 10: Ledgers and Management
+
+**Topics covered:** Household Financial Accounts (income statement and balance sheet), household profiles with Life Cycle Maximization and a Wealth Planner for Thai Villages, bitcoin, statement of cash flow and distributed ledgers, cash management through the lens of dynamic models in Thailand, Sweden as a cashless economy and Kenya e-money, Trusted Third Party and the Decentralization issue of Ledgers
+
+\*Alvarez, Fernando, Anan Pawasutipaisit and Robert M. Townsend. 2018. “[Cash Management in Village Thailand: Positive and Normative Implications” (PDF).](http://economies.www.robertmtownsend.net/sites/default/files/files/papers/Ottowa-11-15-Townsend.pdf) Working Paper.
+
+\* Samphantharak, K. and Townsend, R.M., 2009. Households as corporate firms: an analysis of household finance using integrated household surveys and corporate financial accounting. *Econometric Society Monographs* (Book 46). Cambridge University Press, Chs 2, 4.
+
+Townsend, R and Narapong Srivisal. “The Extraordinary Financial Lives of Ordinary People: Huge Variation in Financial Situations."
+
+Jack, William, Tavneet Suri, and Robert Townsend. 2010. “[Monetary Theory and Electronic Money: Reflections on the Kenyan Experience](https://www.richmondfed.org/publications/research/economic_quarterly/2010/q1/townsend).” *Economic Quarterly* 96 (1): 83–122
+
+Jack, William, and Tavneet Suri. 2014. "[Risk Sharing and Transactions Costs: Evidence from Kenya's Mobile Money Revolution](https://www.aeaweb.org/articles?id=10.1257/aer.104.1.183)." *American Economic Review*, 104 (1): 183-223.
+
+\[DLT\] Section on “e-Payments and e-messages”
