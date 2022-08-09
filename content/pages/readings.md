@@ -21,8 +21,6 @@ Required readings are marked by an asterisk (\*). We use the following acronyms 
 
 **Topics covered:** Motivation and Objectives of the Course: Economics as Experiments, Models as Fully Articulated Systems or Labs, RCT’s versus Natural Experiments, Prediction and Validation, Actual and Counterfactual Policy and Welfare, Theory and Measurement Unified, Big Data, Computation, Villages Economies Real and as Metaphors for Modern Systems, Bitcoin/Blockchain/Distributed Ledgers, A list of Economies to be Studied and Economies in the Language of General Equilibrium Environments, Review of the Reading List
 
-#### Readings
-
 \*Koopmans, T., 1947. “[Measurement without Theory](https://www.jstor.org/stable/1928627#metadata_info_tab_contents).” *The Review of Economics and Statistics*, 29(3): 161-172.
 
 \[\*Medville\] Chapter 1 “Introduction”
@@ -142,3 +140,23 @@ Jack, William, Tavneet Suri, and Robert Townsend. 2010. “[Monetary Theory and 
 Jack, William, and Tavneet Suri. 2014. "[Risk Sharing and Transactions Costs: Evidence from Kenya's Mobile Money Revolution](https://www.aeaweb.org/articles?id=10.1257/aer.104.1.183)." *American Economic Review*, 104 (1): 183-223.
 
 \[DLT\] Section on “e-Payments and e-messages”
+
+### Lectures 11–12: Private Information, Contracts, Mechanism Design
+
+#### Lecture 11: Contracts and Mechanism Design
+
+**Topics covered:** Motivation from rents and spatially scattered Medieval estates; the Revelation Principle, Optimal Multi-period Contracts and Intertemporal Tie-ins, Costly State Verification and Audits; the Space of Lotteries, Incentives and Protocols, Smart Contracts, Implementation of Mechanism Design
+
+\*\[Medville\] Chapter 5 "Rentals with Unobserved Outputs"
+
+\[DLT\] Section on "Contract theory and smart contracts: Mechanism design"
+
+#### Lecture 12: Contract Applications, Obstacles
+
+**Topics covered:** Occupation choice and business starts, distinguishing obstacles (limited commitment versus moral hazard) , rural versus urban Thailand and a battery of tests across information/financial regimes, linear programs to compute solutions to models and maximum likelihood for estimation in data
+
+\*Karaivanov Alexander, Anna L. Pauson, and Robert M. Townsend. 2006 “[Distinguishing Limited Liability from Moral Hazard in a Model of Entrepreneurship.](https://www.jstor.org/stable/10.1086/498917)” *Journal of Political Economy* 114 (1): 100-144.
+
+\*Karaivanov, Alexander. 2001. “Computing Moral Hazard Programs with Lotteries Using Matlab.” Mimeo.
+
+Karaivanov, Alexander, Jesús Saurina, and Robert Townsend. “[Family Firms, Bank Relationships and Financial Constraints: A Comprehensive Score Card.](https://onlinelibrary.wiley.com/doi/abs/10.1111/iere.12362)" *International Economic Review*, Vol.-60, Issue-2, May 2019
