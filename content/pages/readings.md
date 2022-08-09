@@ -49,9 +49,9 @@ Denison, Erin, Michael Lee, and Antoine Martin. 2016. “What do cryptocurrencie
 
 Townsend R. 1995. “[Financial Systems Northern Thai Villages.](https://www.jstor.org/stable/2946647)” *Quarterly Journal of Economics*. Vol. 110, No. 4: 1011 -1046.
 
-Autor DH, Dorn D, Hanson GH. 2013. “The China Syndrome: Local Labor Market Effects of Import  Competition in the United States.” Am. Econ. Rev. 103(6):2121–68
+Autor DH, Dorn D, Hanson GH. 2013. “The China Syndrome: Local Labor Market Effects of Import Competition in the United States.” Am. Econ. Rev. 103(6):2121–68
 
-Malinowski, Bronisław. *Argonauts of the Western Pacific: An Account of Native Enterprise and Adventure in the Archipelagoes of Melanesian New Guinea*. London: Routledge and Kegan Paul.
+Malinowski, Bronisław. *Argonauts of the Western Pacific: An Account of Native Enterprise and Adventure in the Archipelagoes of Melanesian New Guinea*. London: Routledge and Kegan Paul. ISBN: 9780415090940. 
 
 Ralph L. Beals. 1975. *Peasant Marketing System of Oaxaca, Mexico*. ISBN: 9780520363137.
 
@@ -64,3 +64,21 @@ Ralph L. Beals. 1975. *Peasant Marketing System of Oaxaca, Mexico*. ISBN: 978052
 \*\[Kreps\] Appendix A "Constrained Optimization"
 
 \*\[NS\] Chapter 3 "Preferences and Utility; Chapter 4 "Utility Maximization"
+
+#### Lecture 3: Consumer Behavior
+
+**Topics covered:** Demand Functions, Homogeneity, Income and Substitution Effects, Engle Curves and Giffin Goods, Major Application: expenditure shares, Giffen Goods and Expenditures shares in China, in the US for rich and poor. Compensated (Hicks) and Uncompensated (Marshall) Demands, a first look at the Slutsky Equation, indirect utility and the expenditure function, Duality of Utility Maximization and Expenditure Minimization, properties of the expenditure function and Hicksian demand, putting restrictions on data.
+
+\*\[NS Chapter 5\] “Income and Substitution Effects”
+
+\*Jensen, Robert T., and Nolan H. Miller. 2008. "[Giffen Behavior and Subsistence Consumption" (PDF)](https://europepmc.org/backend/ptpmcrender.fcgi?accid=PMC2964162&blobtype=pdf).  *American Economic Review*, 98 (4): 1553-77.
+
+\[MWG\] 3.D–F “The Utility Maximization Problem,” “The Expenditure Minimization Problem,” “Duality: A Mathematical Introduction”
+
+#### Lecture 4: Production 
+
+**Topics covered:** Inputs and Outputs, Production Possibilities Sets and Properties, Re-turns to Scale, Aggregation over Production Sets; Major Application: Profit Maximization, Properties of Profit function, Hotelling Lemma, Isoquants, Cost Minimization and Properties of Cost Curves, Input Mix at Factor Prices; Method: Envelope Theorem. Illustrative example of basics onto modern systems: Robinson Crusoe (one person economy with preferences and production), International Trade (two country example), Leontief Input/Output Matrix, with applications to Google Search and Page Rank, Supply Chains and Great East Japan Earthquake
+
+\*\[Kreps\] 7 "The Neoclassical Firm"
+
+Carvalho, Vasco M. and Nirei, Makoto and Saito, Yukiko and Tahbaz-Salehi, Alireza. "[Supply Chain Disruptions: Evidence from the Great East Japan Earthquake"(PDF)](https://www.econ.cam.ac.uk/research-files/repec/cam/pdf/cwpe1670.pdf). (December 11, 2016). Columbia Business School Research Paper No. 17-5.
