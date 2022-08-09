@@ -54,3 +54,13 @@ Autor DH, Dorn D, Hanson GH. 2013. “The China Syndrome: Local Labor Market Eff
 Malinowski, Bronisław. *Argonauts of the Western Pacific: An Account of Native Enterprise and Adventure in the Archipelagoes of Melanesian New Guinea*. London: Routledge and Kegan Paul.
 
 Ralph L. Beals. 1975. *Peasant Marketing System of Oaxaca, Mexico*. ISBN: 9780520363137.
+
+### Lectures 2–4: Building Blocks for Constructing Economies: Preferences, Endowments, and Technology, with Partial Equilibrium Applications
+
+#### Lecture 2: Consumer Choice 
+
+**Topics covered:** Consumption Set, Rational Preferences, Utility Functions, Some Properties of Preferences, Indifference Curves, Marginal Rates of Substitution, Example Indifference Curves and Functions; Application: Utility Maximization subject to Budget, first order conditions, Major Method: General Constrained Optimization and Lagrangian Programs.
+
+\*\[Kreps\] Appendix A "Constrained Optimization"
+
+\*\[NS\] Chapter 3 "Preferences and Utility; Chapter 4 "Utility Maximization"
