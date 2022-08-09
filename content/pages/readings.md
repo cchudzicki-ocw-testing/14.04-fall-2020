@@ -160,3 +160,23 @@ Jack, William, and Tavneet Suri. 2014. "[Risk Sharing and Transactions Costs: Ev
 \*Karaivanov, Alexander. 2001. “Computing Moral Hazard Programs with Lotteries Using Matlab.” Mimeo.
 
 Karaivanov, Alexander, Jesús Saurina, and Robert Townsend. “[Family Firms, Bank Relationships and Financial Constraints: A Comprehensive Score Card.](https://onlinelibrary.wiley.com/doi/abs/10.1111/iere.12362)" *International Economic Review*, Vol.-60, Issue-2, May 2019
+
+### Lectures 13–15 Walrasian Equilibrium As Prediction; Application to International Trade, Tariffs, Real and Financial Liberalization
+
+#### Lecture 13: Walrasian Equilibrium and Trade
+
+**Topics covered:** Application to International Trade, Commodity Price Differences across Countries, The Gains from Trade, Pricing Capital and Labor as Factors of Production, Who Wins and Who Losses from Tariffs, the Factor Price Equalization Theorem
+
+\*\[Kreps\] 6.1 "Pure Exchange and Price Equilibrium" 
+
+\*\[MWG\] 15.D "The 2X2 Production Model"
+
+#### Lecture 14: Real and Financial Flows: Thailand
+
+**Topics covered:** Creating village, regional and national income and product accounts, GDP, NIPA; Flow of funds and balance of payments; Openness and prices in regional Thailand; Model of a small open economy with obstacles to trade, Calibration of the Model, Model-predicted and actual data compared at both village-level and individual-level
+
+\*Paweenawat, Archawa and Robert M. Townsend. 2019. “[The Impact of Regional Isolationism: Disentangling Real and Financial Factors.](https://www.pier.or.th/en/dp/109/)” Working paper.
+
+\*Dawkins, C., T.N. Srinivasan and J Whalley, 2001. Chapter 58 - Calibration. In Heckman, James J., and Edward E. Leamer (Eds) [*Handbook of Econometrics.*](https://www.sciencedirect.com/handbook/handbook-of-econometrics/vol/5/suppl/C) Vol. 5. Amsterdam: North Holland, pp. 3653-3703.
+
+Moll, B. R. M., Townsend and V. Zhorin. 2017. “[Economic development, flow of funds, and the equilibrium interaction of financial frictions.](https://www.pnas.org/doi/10.1073/pnas.1707055114)” Proceedings of the National Academy of Sciences 114(24): 6176-6184.
