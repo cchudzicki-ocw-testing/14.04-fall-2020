@@ -82,3 +82,45 @@ Ralph L. Beals. 1975. *Peasant Marketing System of Oaxaca, Mexico*. ISBN: 978052
 \*\[Kreps\] 7 "The Neoclassical Firm"
 
 Carvalho, Vasco M. and Nirei, Makoto and Saito, Yukiko and Tahbaz-Salehi, Alireza. "[Supply Chain Disruptions: Evidence from the Great East Japan Earthquake"(PDF)](https://www.econ.cam.ac.uk/research-files/repec/cam/pdf/cwpe1670.pdf). (December 11, 2016). Columbia Business School Research Paper No. 17-5.
+
+### Lectures 5–6: Decisions Making Under Uncertainty, Linear Program, Dynamic Programs 
+
+#### Lecture 5: Uncertainty
+
+**Topics covered:** Discrete commodity space and choice with lotteries, expected utility theory, risk and concave utility, Arrow Pratt measures of risk aversion, Uncertainty and states of the world. Application, Medieval Village Economy (risk and its magnitude, land fragmentation as diversification, cross village spatial correlations). Method: Linear Programs, in a variety of applications (location, activity analysis and profit max, utility max and budget)
+
+\*\[NS\] Chapter 8 "Expected Utility and Risk Aversion"
+
+#### **Lecture 6: Dynamics and Programming**
+
+**Topics covered:** Application: Storage, Seed and Starvation in Medieval Villages; Method: Dynamic Programming, Value Functions
+
+\*\[Varian\] 19.1–3 "Time"
+
+\*\[Medville\] Chapter 3 "Storage as Risk Reduction"
+
+### Lectures 7–9: Pareto Optimality; Risk Sharing and Dynamics; Application to Village Economies; Social Networks and Supply Chains in Villages, Impact of Health Shocks and Covid-19
+
+#### Lecture 7: Pareto Optimality
+
+**Topics covered:** Pareto Optimality, Pareto Dominance and Pareto Set, Edgeworth Box Economy, Utility Possibilities Frontier, Welfare function and a Programming Problem for determination of Optimal Allocations; Method: Separating Hyperplanes and theorems; Leading Example: Uncertainty and the state space of the optimal allocation of risk with implications for data, parametric examples to rejectable restrictions
+
+\*\[Kreps\] 5.1-4 (up to and including “the production and allocation of private goods”)
+
+#### Lecture 8: Risk-Sharing Applications I
+
+**Topics covered:** Village India with ex post consumption and income data, ex ante Land Division in the Medieval Village Economy
+
+\*Townsend, R.M. [“Risk and insurance in Village India](https://www.jstor.org/stable/2951659).” *Econometrica*, 62(3), 539-591. 
+
+\*\[Medville\], Chapter 2 “Uncertainty and Land-holding Patterns”
+
+#### Lecture 9: Risk-Sharing Applications II
+
+**Topics covered:** in Thai Villages, Risk and Return in Production Choice, using data on production and consumption, Idiosyncratic and aggregate risk; the Role of Gifts, Social Networks and the Transmission of Shocks in Villages
+
+\*Samphantharak, K., and Townsend, R.M. 2018, “[Risk and Return in Village Economies](https://www.aeaweb.org/articles?id=10.1257/mic.20160125).” *American Economic Journal: Microeconomics* 10 (1): 1–40, 2018.
+
+\*Kinnan, Cynthia, Krislert Samphantharak, Robert M. Townsend, and Diego Vera Cossio. 2020. “[Insurance and Propagation in Village Networks](https://www.nber.org/papers/w28089).” Working paper, MIT.
+
+Kinnan, C., and Townsend, R.M., 2012. “[Kinship and financial networks, formal financial access, and risk reduction](https://www.aeaweb.org/articles?id=10.1257/aer.102.3.289).” *The American Economic Review*, 102(3): 289-293.
