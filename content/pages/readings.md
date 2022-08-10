@@ -239,7 +239,7 @@ Dubey, Pradeep. (1982) “[Price-quantity Strategic Market Games.](https://www.j
 
 ### Lectures 18-19: Microeconomics and Macro Aggregation: Theory and Data from Two Perspectives, Imposed Structure from Above vs Identification and Falsification with Minimal Assumptions from Below
 
-Lecture 18: Aggregation
+#### Lecture 18: Aggregation
 
 **Topics covered:** The positive and normative representative consumer for prediction and welfare respectively, indirect utility and properties, Roy’s identity, Gorman Polar forms, Linear expansion paths and data, critical review of traditional and new foundations of macroeconomics, Application: The Representative Consumer in Aggregated Models
 
