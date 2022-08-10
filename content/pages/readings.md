@@ -200,3 +200,15 @@ Piketty, Thomas, Emmanuel Saez, Gabriel Zucman.  "Distributional National Accou
 Smith, Matthew, Owen Zidar, Eric Zwick. 2020. “[Top Wealth in America: New Estimates and Implications for Taxing the Rich](https://economics.princeton.edu/working-papers/top-wealth-in-america-new-estimates-and-implications-for-taxing-the-rich/).” Working paper.
 
 Bond, Philip and Robert M. Townsend. 1996. "[Formal and Informal Financing in a Chicago Ethnic Neighborhood](https://www.chicagofed.org/publications/economic-perspectives/1996/07epjul96)." *Economic Perspectives*, July/August 1996, Federal Reserve Bank of Chicago.
+
+### Lectures 16-17 Optimality of Competitive Equilibria, and Existence of Competitive and Nash Equilibria
+
+#### Lecture 16: Optimality of Competitive Equilibrium
+
+**Topics covered**: Competitive equilibria are Pareto optimal; any Pareto Optimum can be supported as equilibrium with Transfers; Sufficient Assumption and proofs, with first order conditions and with supporting hyperplanes; finite dimensional Euclidean Space and extension to Valuation Equilibria in more general spaces
+
+\*\[Kreps\] 6.3 “The Efficiency of a General Equilibrium”
+
+Debreu, G., 1954. “[Valuation equilibrium and Pareto optimum](https://www.jstor.org/stable/89325#metadata_info_tab_contents).” Proceedings of the National Academy of Sciences 40 (7): 588-592.
+
+Prescott, E., and R.M. Townsend. 1984. “[General competitive analysis in an economy with private information.](https://www.jstor.org/stable/2648863#metadata_info_tab_contents)” *International Economic Review* 25 (1): 1-20
