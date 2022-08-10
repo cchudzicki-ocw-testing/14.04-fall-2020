@@ -250,3 +250,13 @@ Lecture 18: Aggregation
 **Topics covered:** as applied to Consumer Optimization and to General Equilibrium theory, A Unified Approach—Infinite Data and the Slutsky Matrix, Finite data and Reveled preference, Convexity not testable, computational considerations, Falsifiability, income data alone is not enough to test
 
 \*\[Varian\] 8.1-3 on Slutsky matrix; 8.5 “Integrability”;  8.7 “Revealed Preference”
+
+### Lectures 20-21: Failures of the Welfare Theorems and Some Market Structure Remedies; Cryptocurrency Values, Monetary Theory and Some Policy Remedies
+
+Lecture 20:F ailures of the Welfare Theorems
+
+**Topics covered:** Failure of the Second Welfare Theorem – Nonconvexity; Failure of the First Welfare Theorem - Local Satiation, Pollution but Fixed with Markets in Rights, Externalities generally, rights for assignment to others, Infinite Horizon and Infinite wealth, Economics of Platforms in a Walrasian Framework: Platform and Payment externalities, Internalizing Externalities with Market Design; Application: Competition in Cryptocurrencies
+
+\*Arrow, K.J., 1969. “[The organization of economic activity: Issues pertinent to the choice of market versus nonmarket allocation" (PDF).](https://econ.ucsb.edu/~tedb/Courses/UCSBpf/readings/ArrowNonMktActivity1969.pdf) In The analysis and evaluation of public expenditure: the PPB-system. Washington DC: Joint Economic Committee, 91st Cong., 1st sess 1, pp. 59-73.
+
+\*Jain, Anil and Robert M. Townsend. 2019. “[The economics of platforms in a Walrasian setting" (PDF)](https://www.bis.org/events/eopix_1810/jain_paper.pdf).  Working paper.
