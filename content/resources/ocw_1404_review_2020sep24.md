@@ -8,10 +8,11 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
-learning_resource_types: []
+learning_resource_types:
+- Lecture Videos
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Video
-title: OCW_14.04_Review_2020sep24.mp4
+title: 'Exam #1 Review'
 uid: 48d89f90-cd60-45ef-9e9b-4be307415497
 video_files:
   video_captions_file: /courses/14-04-intermediate-microeconomic-theory-fall-2020/11LEn5O9TBgT9T2h2vjiQLKaRYVxGHNWP_transcript.webvtt
@@ -19,7 +20,8 @@ video_files:
   video_transcript_file: /courses/14-04-intermediate-microeconomic-theory-fall-2020/11LEn5O9TBgT9T2h2vjiQLKaRYVxGHNWP_transcript.pdf
 video_metadata:
   video_speakers: ''
-  video_tags: ''
+  video_tags: preferences, utility maximization, income and substitution effects,
+    uncertainty, pareto optimality
   youtube_description: ''
   youtube_id: ANprMjSgTZY
 ---
