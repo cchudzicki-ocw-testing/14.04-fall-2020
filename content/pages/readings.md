@@ -161,7 +161,7 @@ Jack, William, and Tavneet Suri. 2014. "[Risk Sharing and Transactions Costs: Ev
 
 Karaivanov, Alexander, Jesús Saurina, and Robert Townsend. “[Family Firms, Bank Relationships and Financial Constraints: A Comprehensive Score Card.](https://onlinelibrary.wiley.com/doi/abs/10.1111/iere.12362)" *International Economic Review*, Vol.-60, Issue-2, May 2019
 
-### Lectures 13–15 Walrasian Equilibrium As Prediction; Application to International Trade, Tariffs, Real and Financial Liberalization
+### Lectures 13–15: Walrasian Equilibrium As Prediction; Application to International Trade, Tariffs, Real and Financial Liberalization
 
 #### Lecture 13: Walrasian Equilibrium and Trade
 
@@ -201,7 +201,7 @@ Smith, Matthew, Owen Zidar, Eric Zwick. 2020. “[Top Wealth in America: New Est
 
 Bond, Philip and Robert M. Townsend. 1996. "[Formal and Informal Financing in a Chicago Ethnic Neighborhood](https://www.chicagofed.org/publications/economic-perspectives/1996/07epjul96)." *Economic Perspectives*, July/August 1996, Federal Reserve Bank of Chicago.
 
-### Lectures 16-17 Optimality of Competitive Equilibria, and Existence of Competitive and Nash Equilibria
+### Lectures 16-17: Optimality of Competitive Equilibria, and Existence of Competitive and Nash Equilibria
 
 #### Lecture 16: Optimality of Competitive Equilibrium
 
@@ -219,7 +219,7 @@ Prescott, E., and R.M. Townsend. 1984. “[General competitive analysis in an ec
 
 \*\[Kreps\] 6.4 “Existence and The Number of Equilibria”
 
-Scarf, H.E., 1982. “The computation of equilibrium prices: an exposition.” In Arrow, Kenneth J., and Michael D. Intriligator (Eds.) [*Handbook of Mathematical Economics. Volume 2.*](https://www.sciencedirect.com/handbook/handbook-of-mathematical-economics/vol/2/suppl/C) 
+Scarf, H.E., 1982. “The computation of equilibrium prices: an exposition.” In Arrow, Kenneth J., and Michael D. Intriligator (Eds.) [*Handbook of Mathematical Economics. Volume 2.*](https://www.sciencedirect.com/handbook/handbook-of-mathematical-economics/vol/2/suppl/C)
 
 Amsterdam: North-Holland, pp. 1007-1061.
 
@@ -235,4 +235,12 @@ Jehle, Geoffrey A. and Philip J. Reny. 2011. *Advanced Microeconomic Theory*. Th
 
 Fleming, Michael J. and Kenneth D. Garbade. “[Explaining Settlement Fails](https://www.newyorkfed.org/research/current_issues/ci11-9.html).” Federal Reserve Bank of New York: Current *Issues in Economics and Finance*. Volume 11, Number 9 September 2005
 
-Dubey, Pradeep. (1982) “[Price-quantity Strategic Market Games.](https://www.jstor.org/stable/1912532#metadata_info_tab_contents)” *Econometrica* Vol. 50, No. 1 (Jan., 1982), pp. 111-126
+Dubey, Pradeep. (1982) “[Price-quantity Strategic Market Games.](https://www.jstor.org/stable/1912532#metadata_info_tab_contents)” *Econometrica* Vol. 50, No. 1 (Jan., 1982), pp. 111-126.
+
+### Lectures 18-19: Microeconomics and Macro Aggregation: Theory and Data from Two Perspectives, Imposed Structure from Above vs Identification and Falsification with Minimal Assumptions from Below
+
+Lecture 18: Aggregation
+
+**Topics covered:** The positive and normative representative consumer for prediction and welfare respectively, indirect utility and properties, Roy’s identity, Gorman Polar forms, Linear expansion paths and data, critical review of traditional and new foundations of macroeconomics, Application: The Representative Consumer in Aggregated Models
+
+\*Acemoglu, Daron. *Introduction to Modern Economic Growth*. Princeton: Princeton University Press. ISBN: 9780691132921. Chapter 5.2. “The Representative Household”, 218-226,
