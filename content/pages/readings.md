@@ -243,4 +243,10 @@ Lecture 18: Aggregation
 
 **Topics covered:** The positive and normative representative consumer for prediction and welfare respectively, indirect utility and properties, Roy’s identity, Gorman Polar forms, Linear expansion paths and data, critical review of traditional and new foundations of macroeconomics, Application: The Representative Consumer in Aggregated Models
 
-\*Acemoglu, Daron. *Introduction to Modern Economic Growth*. Princeton: Princeton University Press. ISBN: 9780691132921. Chapter 5.2. “The Representative Household”, 218-226,
+\*Acemoglu, Daron. *Introduction to Modern Economic Growth*. Princeton: Princeton University Press. ISBN: 9780691132921. Chapter 5.2. “The Representative Household”, 218-226.
+
+#### Lecture 19: Identification and Falsification
+
+**Topics covered:** as applied to Consumer Optimization and to General Equilibrium theory, A Unified Approach—Infinite Data and the Slutsky Matrix, Finite data and Reveled preference, Convexity not testable, computational considerations, Falsifiability, income data alone is not enough to test
+
+\*\[Varian\] 8.1-3 on Slutsky matrix; 8.5 “Integrability”;  8.7 “Revealed Preference”
