@@ -180,3 +180,23 @@ Karaivanov, Alexander, Jesús Saurina, and Robert Townsend. “[Family Firms, Ba
 \*Dawkins, C., T.N. Srinivasan and J Whalley, 2001. Chapter 58 - Calibration. In Heckman, James J., and Edward E. Leamer (Eds) [*Handbook of Econometrics.*](https://www.sciencedirect.com/handbook/handbook-of-econometrics/vol/5/suppl/C) Vol. 5. Amsterdam: North Holland, pp. 3653-3703.
 
 Moll, B. R. M., Townsend and V. Zhorin. 2017. “[Economic development, flow of funds, and the equilibrium interaction of financial frictions.](https://www.pnas.org/doi/10.1073/pnas.1707055114)” Proceedings of the National Academy of Sciences 114(24): 6176-6184.
+
+#### Lecture 15: Data and Policy US
+
+**Topics covered:** China Shock, State Level Current Accounts, Measuring Wealth and Income, US Household Surveys are not Integrated Financial Accounts, Integrated Macro Accounts, Inequality and the top 1%, Distributional Accounts, the Difficulty of Gauging the Impact of Covid-19
+
+\*Chetty, Raj, John N. Friedman, Nathaniel Hendren, Michael Stepner, and the Opportunity Insights Team. 2020. “[How Did COVID-19 and Stabilization Policies Affect Spending and Employment? A New Real-Time Economic Tracker Based on Private Sector Data”(PDF)](https://www.nber.org/system/files/working_papers/w27431/w27431.pdf) Working paper
+
+\*Baker, Scott R. R.A. Farrokhnia, Steffen Meyer, Michaela Pagel, Constantine Yannelis. 2020. “[Income, Liquidity, and the Consumption Response to the 2020 Economic Stimulus Payments](https://www.nber.org/papers/w27097).” Working paper.
+
+Batty, Michael, Jesse Bricker, Joseph Briggs, Elizabeth Holmquist, Susan McIntosh, Kevin Moore, Eric Nielsen, Sarah Reber, Molly Shatto, Kamila Sommer, Tom Sweeney, and Alice Henriques Volz (2019). “[Introducing the Distributional Financial Accounts of the United States](https://www.federalreserve.gov/econres/feds/introducing-the-distributional-financial-accounts-of-the-united-states.htm).” Finance and Economics Discussion Series 2019-017. Washington: Board of Governors of the Federal Reserve System.
+
+Autor DH, Dorn D, Hanson GH. 2013. “[The China Syndrome: Local Labor Market Effects of Import Competition in the United States.](https://www.aeaweb.org/articles?id=10.1257/aer.103.6.2121)” *Am. Econ. Rev.* 103(6):2121–68
+
+Krislert Samphantharak, Scott Schuh and Robert M. Townsend. 2018. "[Integrated Household Surveys: An Assessment of U.S. Methods and an Innovation](https://onlinelibrary.wiley.com/doi/full/10.1111/ecin.12489)". *Economic Inquiry*, 56 (1), 2018: 50–80.
+
+Piketty, Thomas, Emmanuel Saez, Gabriel Zucman.  "Distributional National Accounts: Methods and Estimates for the United States." *The Quarterly Journal of Economics*, Volume 133, Issue 2, May 2018, Pages 553–609, [https://doi.org/10.1093/qje/qjx043](https://doi.org/10.1093/qje/qjx043)
+
+Smith, Matthew, Owen Zidar, Eric Zwick. 2020. “[Top Wealth in America: New Estimates and Implications for Taxing the Rich](https://economics.princeton.edu/working-papers/top-wealth-in-america-new-estimates-and-implications-for-taxing-the-rich/).” Working paper.
+
+Bond, Philip and Robert M. Townsend. 1996. "[Formal and Informal Financing in a Chicago Ethnic Neighborhood](https://www.chicagofed.org/publications/economic-perspectives/1996/07epjul96)." *Economic Perspectives*, July/August 1996, Federal Reserve Bank of Chicago.
