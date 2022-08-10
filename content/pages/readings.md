@@ -253,10 +253,26 @@ Lecture 18: Aggregation
 
 ### Lectures 20-21: Failures of the Welfare Theorems and Some Market Structure Remedies; Cryptocurrency Values, Monetary Theory and Some Policy Remedies
 
-Lecture 20:F ailures of the Welfare Theorems
+#### Lecture 20: Failures of the Welfare Theorems
 
 **Topics covered:** Failure of the Second Welfare Theorem – Nonconvexity; Failure of the First Welfare Theorem - Local Satiation, Pollution but Fixed with Markets in Rights, Externalities generally, rights for assignment to others, Infinite Horizon and Infinite wealth, Economics of Platforms in a Walrasian Framework: Platform and Payment externalities, Internalizing Externalities with Market Design; Application: Competition in Cryptocurrencies
 
 \*Arrow, K.J., 1969. “[The organization of economic activity: Issues pertinent to the choice of market versus nonmarket allocation" (PDF).](https://econ.ucsb.edu/~tedb/Courses/UCSBpf/readings/ArrowNonMktActivity1969.pdf) In The analysis and evaluation of public expenditure: the PPB-system. Washington DC: Joint Economic Committee, 91st Cong., 1st sess 1, pp. 59-73.
 
 \*Jain, Anil and Robert M. Townsend. 2019. “[The economics of platforms in a Walrasian setting" (PDF)](https://www.bis.org/events/eopix_1810/jain_paper.pdf).  Working paper.
+
+#### Lecture 21: Bubbles 
+
+**Topics covered:** Bitcoin Values, Overlapping Generations and Bubbles, Lessons from Monetary Theory, Efficiency questions, is the bubble large enough in actual economies, the value of money as from cash-in-advance, removing indeterminacy in practice, a fin tech application in Southeast Asia, Commitment and a Digital Reserve Bank, activist monetary and token policy
+
+\*Townsend, Robert M. 1980. “Models of Money with Spatially Separated Agents.” In *Models of Monetary Economies*, edited by John Kareken and Neil Wallace. Minneapolis: Federal Reserve Bank of Minneapolis, pp. 265-303
+
+\*Abel, Andrew B., N. Gregory Mankiw, Lawrence H. Summers, and Richard J. Zeckhauser. 1989. “[Assessing Dynamic Efficiency: Theory and Evidence" (PDF)](https://scholar.harvard.edu/files/mankiw/files/assessing_dynamic_efficiency.pdf). *Review of Economic Studies* 56 (1): 1-19
+
+\[DLT\] Section on “Token Valuation”
+
+Townsend, Robert and Neil Wallace. 1987. “Circulating Private Debt: An Example with a Coordination Problem.” In *Contractual Arrangements for Intertemporal Trade*, edited by Edward C. Prescott and Neil Wallace. Minneapolis: University of Minnesota Press, pp 105-20. ISBN: 9780816615346. 
+
+Tirole, Jean. 1985. “[Asset Bubbles and Overlapping Generations](https://www.jstor.org/stable/1913232#metadata_info_tab_contents).” *Econometrica* 53 (6): 1499-1528
+
+Manuelli, Rodolfo, and Thomas J. Sargent. 2010. “[Alternative Monetary Policies in a Turnpike Economy](https://www.cambridge.org/core/journals/macroeconomic-dynamics/article/alternative-monetary-policies-in-a-turnpike-economy/C2C77CCE59A3902D101AE69970AD8F46).” *Macroeconomic Dynamics* 14 (5): 727-762
