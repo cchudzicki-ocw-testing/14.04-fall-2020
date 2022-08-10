@@ -24,11 +24,13 @@ video_metadata:
   youtube_description: "MIT 14.04 Intermediate Microeconomic Theory, Fall 2020\nInstructor:\
     \ Prof. Robert Townsend\n\nView the complete course: https://ocw.mit.edu/courses/14-04-intermediate-microeconomic-theory-fall-2020/\n\
     YouTube Playlist: https://www.youtube.com/watch?v=XSTSfCs74bg&list=PLUl4u3cNGP63wnrKge9vllow3Y2OOOKqF\n\
-    \n*****\n\nLicense: Creative Commons BY-NC-SA\nMore information at https://ocw.mit.edu/terms\n\
-    More courses at https://ocw.mit.edu\nSupport OCW at http://ow.ly/a1If50zVRlQ\n\
-    \nWe encourage constructive comments and discussion on OCW\u2019s YouTube and\
-    \ other social media channels. Personal attacks, hate speech, trolling, and inappropriate\
-    \ comments are not allowed and may be removed. More details at https://ocw.mit.edu/comments."
+    \nProf. Townsend reviews content from lectures 8-15 to help students prepare for\
+    \ the midterm exam.\n\nLicense: Creative Commons BY-NC-SA\nMore information at\
+    \ https://ocw.mit.edu/terms\nMore courses at https://ocw.mit.edu\nSupport OCW\
+    \ at http://ow.ly/a1If50zVRlQ\n\nWe encourage constructive comments and discussion\
+    \ on OCW\u2019s YouTube and other social media channels. Personal attacks, hate\
+    \ speech, trolling, and inappropriate comments are not allowed and may be removed.\
+    \ More details at https://ocw.mit.edu/comments."
   youtube_id: JZplGZVCdN8
 ---
-\*\*\*\*
+Prof. Townsend reviews content from lectures 8-15 to help students prepare for the midterm exam.
