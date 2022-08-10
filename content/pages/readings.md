@@ -212,3 +212,27 @@ Bond, Philip and Robert M. Townsend. 1996. "[Formal and Informal Financing in a 
 Debreu, G., 1954. “[Valuation equilibrium and Pareto optimum](https://www.jstor.org/stable/89325#metadata_info_tab_contents).” Proceedings of the National Academy of Sciences 40 (7): 588-592.
 
 Prescott, E., and R.M. Townsend. 1984. “[General competitive analysis in an economy with private information.](https://www.jstor.org/stable/2648863#metadata_info_tab_contents)” *International Economic Review* 25 (1): 1-20
+
+#### Lecture 17: Existence
+
+**Topics covered:** Fixed Point Theorems, Existence of Walrasian Equilibiria with Negishi Algorithm Using second welfare theorem, Recent Computer Science Contributions, Nash equilibria in Mixed Strategies; Existence, Application to Financial Markets ,trade fails and penalties in limit order pricing
+
+\*\[Kreps\] 6.4 “Existence and The Number of Equilibria”
+
+Scarf, H.E., 1982. “The computation of equilibrium prices: an exposition.” In Arrow, Kenneth J., and Michael D. Intriligator (Eds.) [*Handbook of Mathematical Economics. Volume 2.*](https://www.sciencedirect.com/handbook/handbook-of-mathematical-economics/vol/2/suppl/C) 
+
+Amsterdam: North-Holland, pp. 1007-1061.
+
+Negishi, T., 1960. “[Welfare economics and existence of an equilibrium for a competitive economy](https://onlinelibrary.wiley.com/doi/10.1111/j.1467-999X.1960.tb00275.x).” *Metroeconomica*, 12 (2-3): 92-97.
+
+Echenique, F.; and Wierman, A. "[Finding a Walrasian Equilibrium is Easy for a Fixed Number of Agents](https://dl.acm.org/doi/10.1145/2229012.2229049)." In Proceedings of the 13th ACM Conference on Electronic Commerce, of EC '12, pages 495-495, New York, NY, USA, 2012. ACM
+
+Paes, Leme and Chiu-wai Wong (2016) “[Computing Walrasian Equilibria: Fast Algorithms and Structural Properties](https://arxiv.org/abs/1511.04032).”
+
+Jehle, Geoffrey A. and Philip J. Reny. 2011. *Advanced Microeconomic Theory*. Third Edition. New York: Financial Times/Prentice Hall. ISBN: ‎9780273731917.  Chs. 7.1-7.2.2 “Strategic Decision Making”, “Dominant Strategies”, “Nash Equilibrium”. 
+
+\*Asu Ozdaglar’s Lecture material from Course 6.254. “[Existence of a Nash equilibrium](https://ocw.mit.edu/courses/6-254-game-theory-with-engineering-applications-spring-2010/resources/mit6_254s10_lec05/)”
+
+Fleming, Michael J. and Kenneth D. Garbade. “[Explaining Settlement Fails](https://www.newyorkfed.org/research/current_issues/ci11-9.html).” Federal Reserve Bank of New York: Current *Issues in Economics and Finance*. Volume 11, Number 9 September 2005
+
+Dubey, Pradeep. (1982) “[Price-quantity Strategic Market Games.](https://www.jstor.org/stable/1912532#metadata_info_tab_contents)” *Econometrica* Vol. 50, No. 1 (Jan., 1982), pp. 111-126
