@@ -23,3 +23,7 @@ leftnav:
   name: Exams
   url: /pages/exams
   weight: 60
+- identifier: d12abf46-b03e-4517-848a-6f18167361a2
+  name: Test Gallery
+  url: /video_galleries/test-video-gallery
+  weight: 70
