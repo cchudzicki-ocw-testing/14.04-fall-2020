@@ -1,7 +1,7 @@
 ---
 content_type: video_gallery
 draft: false
-title: Test Video Gallery
+title: Video Lectures
 uid: d12abf46-b03e-4517-848a-6f18167361a2
 videos:
   content:

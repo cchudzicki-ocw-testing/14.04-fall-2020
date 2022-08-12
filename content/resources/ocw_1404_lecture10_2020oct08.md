@@ -15,9 +15,9 @@ resourcetype: Video
 title: 'Lecture 10: Ledgers and Management'
 uid: 98d74608-a2d3-4e93-9b97-f842e55030da
 video_files:
-  video_captions_file: ''
+  video_captions_file: /courses/14-04-intermediate-microeconomic-theory-fall-2020/1PP46loBwK9ZjkLDEyE53S_oxVlVdi17m_transcript.webvtt
   video_thumbnail_file: https://img.youtube.com/vi/5rjoqINtRbs/default.jpg
-  video_transcript_file: ''
+  video_transcript_file: /courses/14-04-intermediate-microeconomic-theory-fall-2020/1PP46loBwK9ZjkLDEyE53S_oxVlVdi17m_transcript.pdf
 video_metadata:
   video_speakers: ''
   video_tags: finance, wealth, Bitcoin, e-money, Bitcoin, distributed ledgers, Thailand,
