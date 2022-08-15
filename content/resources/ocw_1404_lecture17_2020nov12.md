@@ -15,9 +15,9 @@ resourcetype: Video
 title: 'Lecture 17: Existence of Equilibria'
 uid: 1376a469-bdf7-4dfb-9d7c-8e1f72ffa4a9
 video_files:
-  video_captions_file: ''
+  video_captions_file: /courses/14-04-intermediate-microeconomic-theory-fall-2020/1kGMNb1LlaQi9vIoKfEWd3hAMNQz5waNC_transcript.webvtt
   video_thumbnail_file: https://img.youtube.com/vi/eBb1BLE4am0/default.jpg
-  video_transcript_file: ''
+  video_transcript_file: /courses/14-04-intermediate-microeconomic-theory-fall-2020/1kGMNb1LlaQi9vIoKfEWd3hAMNQz5waNC_transcript.pdf
 video_metadata:
   video_speakers: ''
   video_tags: fix point theorems, Walrasian equilibria, Nash Equilibria, market games
