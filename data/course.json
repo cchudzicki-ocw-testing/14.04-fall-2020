@@ -33,6 +33,12 @@
     "content": "14796eea-ff6c-4228-830f-b2671c31d147",
     "website": "intermediate-microeconomic-theory"
   },
-  "learning_resource_types": [],
+  "learning_resource_types": [
+    "Exams with Solutions",
+    "Exam Materials",
+    "Lecture Videos",
+    "Problem Sets with Solutions",
+    "Readings"
+  ],
   "site_uid": "627bf0af-c70d-4173-ab8c-33b6e2268999"
 }
