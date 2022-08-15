@@ -15,9 +15,9 @@ resourcetype: Video
 title: Final Exam Review for 14.04 Intermediate Microeconomic Theory, Fall 2020
 uid: 3d1cea5d-dcb4-4b42-b968-15dcc82b0833
 video_files:
-  video_captions_file: ''
+  video_captions_file: /courses/14-04-intermediate-microeconomic-theory-fall-2020/1TyuHxZLgZc8fDc_DmIBAMcFxCXTCx5sw_transcript.webvtt
   video_thumbnail_file: https://img.youtube.com/vi/Dqko567cE9I/default.jpg
-  video_transcript_file: ''
+  video_transcript_file: /courses/14-04-intermediate-microeconomic-theory-fall-2020/1TyuHxZLgZc8fDc_DmIBAMcFxCXTCx5sw_transcript.pdf
 video_metadata:
   video_speakers: ''
   video_tags: trade application, welfare theorems, equilibria, monetary theory, identification
