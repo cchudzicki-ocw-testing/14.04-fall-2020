@@ -16,7 +16,7 @@ Session 1
 {{< tdclose >}}{{< tdopen >}}
 Lecture 1: Introduction
 {{< tdclose >}}{{< tdopen >}}
-PSet 1 released
+Pset 1 released
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Session 2
 {{< tdclose >}}{{< tdopen >}}
