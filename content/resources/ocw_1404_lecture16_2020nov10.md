@@ -15,9 +15,9 @@ resourcetype: Video
 title: 'Lecture 16: Fundamental Welfare Theorems'
 uid: 2fbbbe47-b0ff-4269-931c-343f5368ffb7
 video_files:
-  video_captions_file: ''
+  video_captions_file: /courses/14-04-intermediate-microeconomic-theory-fall-2020/1gcajw7hbthjPcO8f8wCXWoKIBXEYkUEH_transcript.webvtt
   video_thumbnail_file: https://img.youtube.com/vi/h0IfCMqepfM/default.jpg
-  video_transcript_file: ''
+  video_transcript_file: /courses/14-04-intermediate-microeconomic-theory-fall-2020/1gcajw7hbthjPcO8f8wCXWoKIBXEYkUEH_transcript.pdf
 video_metadata:
   video_speakers: ''
   video_tags: pareto optimum, welfare, equilibrium, allocations

@@ -15,9 +15,9 @@ resourcetype: Video
 title: 'Lecture 21: Bubbles'
 uid: 4ba98e73-2ccf-4d9b-916e-930e5eadb85e
 video_files:
-  video_captions_file: ''
+  video_captions_file: /courses/14-04-intermediate-microeconomic-theory-fall-2020/1l0lQdeP8YcSxKrLR5CGTPNetvq1Iqyks_transcript.webvtt
   video_thumbnail_file: https://img.youtube.com/vi/ySqVVEBTy2o/default.jpg
-  video_transcript_file: ''
+  video_transcript_file: /courses/14-04-intermediate-microeconomic-theory-fall-2020/1l0lQdeP8YcSxKrLR5CGTPNetvq1Iqyks_transcript.pdf
 video_metadata:
   video_speakers: ''
   video_tags: monetary economics, monetary theory
