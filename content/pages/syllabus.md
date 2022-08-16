@@ -30,12 +30,12 @@ In sum the class is organized around two intertwined themes:
 
 #### Class Attendance
 
-This is not a by-the-book micro-theory class. A significant portion of the class will focus on applications from empirical and theoretical papers, often combined. It will be difficult to master this material unless you attend both the lectures and recitations either synchronously or     
+This is not a by-the-book micro-theory class. A significant portion of the class will focus on applications from empirical and theoretical papers, often combined. It will be difficult to master this material unless you attend both the lectures and recitations either synchronously or      
 asynchronously.
 
 #### Laptop/Tablet/Phone Use During Class
 
-I strongly discourage you against texting, tweeting, emailing, blogging, posting, browsing, Instagramming, Googling, shopping, etc., during class. It wastes your class-time—since you won’t learn anything during lecture if you’re distracted. I’m sympathetic to your desire to use your      
+I strongly discourage you against texting, tweeting, emailing, blogging, posting, browsing, Instagramming, Googling, shopping, etc., during class. It wastes your class-time—since you won’t learn anything during lecture if you’re distracted. I’m sympathetic to your desire to use your       
 laptop or tablet to view the online lecture notes and take notes of your own. I would encourage you instead to print out the online lecture notes the night before class, and to write your notes directly on the paper lecture notes. In my experience, it’s still faster and more accurate to take notes in class using paper and pen than to mark up a PDF file on your device.
 
 #### Grading
@@ -50,13 +50,15 @@ Here are the grading mechanics:
 
 #### Problem Sets (30%)
 
- 
+I will assign five problem sets. Problem sets typically include a set of pure theory questions and a set of application questions, often based on readings. Late problem sets will not be accepted. No exceptions. 
+
+After the problem set has been graded and handed back we are happy to go over solutions with you if they are still unclear. [Visit the Assignments section](https://draft.ocw.mit.edu/courses/14-04-intermediate-microeconomic-theory-fall-2020/pages/assignments/) for more information. 
 
 #### Three Exams (60%)
 
 There will be two exams of 80 minutes in length. There will also be a final exam during the finals period. You will have 120 minutes to complete the final. 
 
-Performance on exams is highly correlated with performance on problem sets. If you miss an exam for an excused reason, I will offer a written makeup or an oral exam on a whiteboard online. Students typically find oral exams painful. But, I will not write a new exam for only a few students—so, an oral exam is likely. Visit the exams section. 
+Performance on exams is highly correlated with performance on problem sets. If you miss an exam for an excused reason, I will offer a written makeup or an oral exam on a whiteboard online. Students typically find oral exams painful. But, I will not write a new exam for only a few students—so, an oral exam is likely. [Visit the exams section](https://ocw.mit.edu/courses/14-04-intermediate-microeconomic-theory-fall-2020/) for more information.
 
 #### Class Participation (10%)
 
