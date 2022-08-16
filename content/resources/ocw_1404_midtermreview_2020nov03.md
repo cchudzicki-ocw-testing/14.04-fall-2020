@@ -12,7 +12,7 @@ learning_resource_types:
 - Lecture Videos
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Video
-title: Midterm Review for 14.04 Intermediate Microeconomic Theory, Fall 2020
+title: 'Exam #2 Review'
 uid: a20e296c-3ac9-48a2-bb31-c941a6f78124
 video_files:
   video_captions_file: /courses/14-04-intermediate-microeconomic-theory-fall-2020/1ip1jmuXJ6eF0PIjDzUAiWprKaEQdSvMz_transcript.webvtt
