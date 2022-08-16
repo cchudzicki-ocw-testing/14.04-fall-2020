@@ -12,15 +12,15 @@ Topic
 {{< thclose >}}{{< thopen >}}
 Key Dates
 {{< thclose >}}{{< trclose >}}{{< theadclose >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}
-Session 1
+Lecture 1
 {{< tdclose >}}{{< tdopen >}}
-Lecture 1: Introduction
+ Introduction
 {{< tdclose >}}{{< tdopen >}}
 Pset 1 released
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-Session 2
+Lecture 2
 {{< tdclose >}}{{< tdopen >}}
-Lecture 3: Preferences
+Preferences
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -30,15 +30,15 @@ Preferences and Utility Maximization
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-Session 3
+Lecture 3
 {{< tdclose >}}{{< tdopen >}}
-Lecture 3: Income and Substitution Effects
+Income and Substitution Effects
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-Session 4
+Lecture 4
 {{< tdclose >}}{{< tdopen >}}
-Lecture 4: Production and Profit Maximization
+Production and Profit Maximization
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -48,9 +48,9 @@ Income and Substitution Effects
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-Session 5: 
+Lecture 5: 
 {{< tdclose >}}{{< tdopen >}}
-Lecture 5: Uncertainty
+Uncertainty
 {{< tdclose >}}{{< tdopen >}}
 
 Pset 1 due
@@ -58,9 +58,9 @@ Pset 1 due
 Pset 2 released
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-Session 6
+Lecture 6
 {{< tdclose >}}{{< tdopen >}}
-Lecture 6: Dynamic Optimization
+Dynamic Optimization
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -70,13 +70,13 @@ Pareto Optimality
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-Session 7
+Lecture 7
 {{< tdclose >}}{{< tdopen >}}
-Lecture 7: Pareto Optimality
+Pareto Optimality
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-Session 8
+Exam Review
 {{< tdclose >}}{{< tdopen >}}
 Exam #1 Review
 {{< tdclose >}}{{< tdopen >}}
@@ -88,15 +88,15 @@ Q & A 
 {{< tdclose >}}{{< tdopen >}}
 Pset 2 due
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-Session 9
+Exam
 {{< tdclose >}}{{< tdopen >}}
 Exam #1 (Covers materials from lectures 1–7)
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-Session 10
+Lecture 8
 {{< tdclose >}}{{< tdopen >}}
-Lecture 8: Risk-sharing Application I
+Risk-sharing Application I
 {{< tdclose >}}{{< tdopen >}}
 Pset 3 released
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -106,15 +106,15 @@ Village India / Portfolio Choice
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-Session 11
+Lecture 9
 {{< tdclose >}}{{< tdopen >}}
-Lecture 9: Risk-sharing Application II
+Risk-sharing Application II
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-Session 12
+Lecture 10
 {{< tdclose >}}{{< tdopen >}}
-Lecture 10: Financial Modeling
+Financial Modeling
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -124,9 +124,9 @@ Mechanism Design
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-Session 13
+Lecture 11
 {{< tdclose >}}{{< tdopen >}}
-Lecture 11: Contracts and Mechanism Design I
+Contracts and Mechanism Design I
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -140,15 +140,15 @@ Pset 3 due
 Pset 4 released
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-Session 14
+Lecture 12
 {{< tdclose >}}{{< tdopen >}}
-Lecture 12: Contracts and Mechanism Design II
+Contracts and Mechanism Design II
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-Session 15
+Lecture 13
 {{< tdclose >}}{{< tdopen >}}
-Lecture 13: Walrasian Equilibrium and International Trade
+Walrasian Equilibrium and International Trade
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -158,15 +158,15 @@ Recitation 8
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-Session 16
+Lecture 14
 {{< tdclose >}}{{< tdopen >}}
-Lecture 14: Trade Application I
+Trade Application I
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-Session 17
+Lecture 15
 {{< tdclose >}}{{< tdopen >}}
-Lecture 15: Trade Application II
+Trade Application II
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -176,13 +176,13 @@ Q & A
 {{< tdclose >}}{{< tdopen >}}
 Pset 4 due
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-Session 18
+Exam Review
 {{< tdclose >}}{{< tdopen >}}
 Exam #2 Review
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-Session 19
+Exam
 {{< tdclose >}}{{< tdopen >}}
 Exam #2 (Covers material from Lectures 8–15)
 {{< tdclose >}}{{< tdopen >}}
@@ -194,15 +194,15 @@ Welfare Theorems
 {{< tdclose >}}{{< tdopen >}}
 Pset 5 released
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-Session 20
+Lecture 16
 {{< tdclose >}}{{< tdopen >}}
-Lecture 16: Welfare Theorems
+Welfare Theorems
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-Session 21
+Lecture 17
 {{< tdclose >}}{{< tdopen >}}
-Lecture 17: Existence of Equilibria
+Existence of Equilibria
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -212,15 +212,15 @@ Existence
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-Session 22
+Lecture 18
 {{< tdclose >}}{{< tdopen >}}
-Lecture 18: Gorman Aggregation
+Gorman Aggregation
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-Session 23
+Lecture 19
 {{< tdclose >}}{{< tdopen >}}
-Lecture 19: Identification
+Identification
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -230,15 +230,15 @@ Aggregation & Failure of Welfare Theorems
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-Session 24
+Lecture 20
 {{< tdclose >}}{{< tdopen >}}
-Lecture 20: Failure of Welfare Theorems 
+Failure of Welfare Theorems 
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-Session 25
+Lecture 21
 {{< tdclose >}}{{< tdopen >}}
-Lecture 21: Monetary Theory
+Monetary Theory
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -248,13 +248,13 @@ Q & A
 {{< tdclose >}}{{< tdopen >}}
 Pset 5 due
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-Session 26
+Exam Review
 {{< tdclose >}}{{< tdopen >}}
 Exam #3 Review
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
- 
+Exam
 {{< tdclose >}}{{< tdopen >}}
 Exam #3 (Covers material from all lectures.) 
 {{< tdclose >}}{{< tdopen >}}
