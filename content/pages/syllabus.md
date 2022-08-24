@@ -25,18 +25,18 @@ If you’ve had an economics class before, you’re probably used to the followi
 
 The Econometric Society and the Cowles Foundation framed economics as a science running in the laboratory of model economies. So, we are interested in inference, how do we measure, how do we estimate models, how to make welfare statements for actual policies as implemented and counterfactual policies which might be undertaken.
 
-In sum the class is organized around two intertwined themes:
+In sum, the class is organized around two intertwined themes:
 
 1. Economic theory: What does it predict, and in what ways is it useful?
 2. Empirical applications: Economic theory way of organizing facts and interpreting and patterns in the world. This class will use data to test theory and use theory to interpret data.
 
 #### Class Attendance
 
-This is not a by-the-book micro-theory class. A significant portion of the class will focus on applications from empirical and theoretical papers,often combined. It will be difficult to master this material unless you attend both the lectures and recitations either synchronously or      asynchronously.
+This is not a by-the-book micro-theory class. A significant portion of the class will focus on applications from empirical and theoretical papers, often combined. It will be difficult to master this material unless you attend both the lectures and recitations, either synchronously or asynchronously.
 
 #### Laptop/Tablet/Phone Use During Class
 
-I strongly discourage you against texting, tweeting, emailing, blogging, posting, browsing, Instagramming, Googling, shopping, etc., during class. It wastes your class-time—since you won’t learn anything during lecture if you’re distracted. I’m sympathetic to your desire to use your         
+I strongly discourage you against texting, tweeting, emailing, blogging, posting, browsing, Instagramming, Googling, shopping, etc., during class. It wastes your class-time—since you won’t learn anything during lecture if you’re distracted. I’m sympathetic to your desire to use your          
 laptop or tablet to view the online lecture notes and take notes of your own. I would encourage you instead to print out the online lecture notes the night before class, and to write your notes directly on the paper lecture notes. In my experience, it’s still faster and more accurate to take notes in class using paper and pen than to mark up a PDF file on your device.
 
 #### Grading
@@ -53,7 +53,7 @@ Here are the grading mechanics:
 
 I will assign five problem sets. Problem sets typically include a set of pure theory questions and a set of application questions, often based on readings. Late problem sets will not be accepted. No exceptions. 
 
-After the problem set has been graded and handed back we are happy to go over solutions with you if they are still unclear. [Visit the Assignments section](https://draft.ocw.mit.edu/courses/14-04-intermediate-microeconomic-theory-fall-2020/pages/assignments/) for more information. 
+After the problem set has been graded and handed back, we are happy to go over solutions with you if they are still unclear. [Visit the Assignments section](https://draft.ocw.mit.edu/courses/14-04-intermediate-microeconomic-theory-fall-2020/pages/assignments/) for more information. 
 
 #### Three Exams (60%)
 
