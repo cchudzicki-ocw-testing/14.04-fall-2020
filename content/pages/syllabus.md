@@ -13,7 +13,7 @@ Recitations: 1 / week; 1 hour / session
 
 #### Prerequisites
 
-This is an intermediate course in microeconomic theory and its application to real world phenomena and policy problems. The class assumes proficiency with economic theory at the level of 
+This is an intermediate course in microeconomic theory and its application to real world phenomena and policy problems. The class assumes proficiency with economic theory at the level of
 
 [*14.01* *Principles of Microeconomics*](https://ocw.mit.edu/courses/14-01-principles-of-microeconomics-fall-2018/) as well as [multivariable calculus](https://ocw.mit.edu/courses/18-02sc-multivariable-calculus-fall-2010/). It is also quite helpful if you have taken some [linear algebra](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/), statistics or econometrics and are somewhat familiar with basic notions of algorithms and computing, but for those who are not familiar with these additional tools, the Teaching Assistants will provide a primer or fill in gaps for this material.
 
@@ -32,12 +32,11 @@ In sum the class is organized around two intertwined themes:
 
 #### Class Attendance
 
-This is not a by-the-book micro-theory class. A significant portion of the class will focus on applications from empirical and theoretical papers, often combined. It will be difficult to master this material unless you attend both the lectures and recitations either synchronously or       
-asynchronously.
+This is not a by-the-book micro-theory class. A significant portion of the class will focus on applications from empirical and theoretical papers,often combined. It will be difficult to master this material unless you attend both the lectures and recitations either synchronously or      asynchronously.
 
 #### Laptop/Tablet/Phone Use During Class
 
-I strongly discourage you against texting, tweeting, emailing, blogging, posting, browsing, Instagramming, Googling, shopping, etc., during class. It wastes your class-time—since you won’t learn anything during lecture if you’re distracted. I’m sympathetic to your desire to use your        
+I strongly discourage you against texting, tweeting, emailing, blogging, posting, browsing, Instagramming, Googling, shopping, etc., during class. It wastes your class-time—since you won’t learn anything during lecture if you’re distracted. I’m sympathetic to your desire to use your         
 laptop or tablet to view the online lecture notes and take notes of your own. I would encourage you instead to print out the online lecture notes the night before class, and to write your notes directly on the paper lecture notes. In my experience, it’s still faster and more accurate to take notes in class using paper and pen than to mark up a PDF file on your device.
 
 #### Grading
