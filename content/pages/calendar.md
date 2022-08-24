@@ -14,7 +14,7 @@ Key Dates
 {{< thclose >}}{{< trclose >}}{{< theadclose >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}
 Lecture 1
 {{< tdclose >}}{{< tdopen >}}
- Introduction
+Introduction
 {{< tdclose >}}{{< tdopen >}}
 Pset 1 released
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
