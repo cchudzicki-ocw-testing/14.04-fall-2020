@@ -15,9 +15,9 @@ resourcetype: Video
 title: 'Lecture 4: Production and Profit Maximization'
 uid: 6025e23d-aea2-48aa-8a41-b028d6f70f69
 video_files:
-  video_captions_file: ''
+  video_captions_file: /courses/14-04-intermediate-microeconomic-theory-fall-2020/1a9CCuO7YIpBmnuVI08cRGxEAWTlfoZgg_transcript.webvtt
   video_thumbnail_file: https://img.youtube.com/vi/o8sje-b-BCk/default.jpg
-  video_transcript_file: ''
+  video_transcript_file: /courses/14-04-intermediate-microeconomic-theory-fall-2020/1a9CCuO7YIpBmnuVI08cRGxEAWTlfoZgg_transcript.pdf
 video_metadata:
   video_speakers: ''
   video_tags: production, profit maximization, expenditure, Leontif model
