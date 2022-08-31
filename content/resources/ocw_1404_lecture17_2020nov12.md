@@ -38,4 +38,4 @@ video_metadata:
     \ comments are not allowed and may be removed. More details at https://ocw.mit.edu/comments."
   youtube_id: eBb1BLE4am0
 ---
-Do competitive markets always function well? Existence of a competitive equilibrium is not to be taken for granted. How can computer science contribute in computation? What if participants are few in number and act strategically? What does it mean for a trade to fail and why does this happen? What is the ex ante optimal design of market structures needed to support competitive outcomes?
+Do competitive markets always function well? Existence of a competitive equilibrium is not to be taken for granted. How can computer science contribute in computation? What if participants are few in number and act strategically? What does it mean for a trade to fail and why does this happen? What is the ex *ante* optimal design of market structures needed to support competitive outcomes?
