@@ -50,13 +50,13 @@ Here are the grading mechanics:
 
 I will assign five problem sets. Problem sets typically include a set of pure theory questions and a set of application questions, often based on readings. Late problem sets will not be accepted. No exceptions. 
 
-After the problem set has been graded and handed back, we are happy to go over solutions with you if they are still unclear. [Visit the Assignments section](https://draft.ocw.mit.edu/courses/14-04-intermediate-microeconomic-theory-fall-2020/pages/assignments/) for more information. 
+After the problem set has been graded and handed back, we are happy to go over solutions with you if they are still unclear. [Visit the Assignments section](https://ocw.mit.edu/courses/14-04-intermediate-microeconomic-theory-fall-2020/pages/assignments/) for more information. 
 
 #### Three Exams (60%)
 
 There will be two exams of 80 minutes in length. There will also be a final exam during the finals period. You will have 120 minutes to complete the final. 
 
-Performance on exams is highly correlated with performance on problem sets. If you miss an exam for an excused reason, I will offer a written makeup or an oral exam on a whiteboard online. Students typically find oral exams painful. But, I will not write a new exam for only a few students—so, an oral exam is likely. [Visit the exams section](https://draft.ocw.mit.edu/courses/14-04-intermediate-microeconomic-theory-fall-2020/pages/exams/) for more information.
+Performance on exams is highly correlated with performance on problem sets. If you miss an exam for an excused reason, I will offer a written makeup or an oral exam on a whiteboard online. Students typically find oral exams painful. But, I will not write a new exam for only a few students—so, an oral exam is likely. [Visit the exams section](https://ocw.mit.edu/courses/14-04-intermediate-microeconomic-theory-fall-2020/pages/exams/) for more information.
 
 #### Class Participation (10%)
 
