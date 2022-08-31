@@ -34,8 +34,7 @@ This is not a by-the-book micro-theory class. A significant portion of the class
 
 #### Laptop/Tablet/Phone Use During Class
 
-I strongly discourage you from texting, tweeting, emailing, blogging, posting, browsing, Instagramming, Googling, shopping, etc., during class. It wastes your class-time—since you won’t learn anything during lecture if you’re distracted. I’m sympathetic to your desire to use your             
-laptop or tablet to view the online lecture notes and take notes of your own. I would encourage you instead to print out the online lecture notes the night before class, and to write your notes directly on the paper lecture notes. In my experience, it’s still faster and more accurate to take notes in class using paper and pen than to mark up a PDF file on your device.
+I strongly discourage you from texting, tweeting, emailing, blogging, posting, browsing, Instagramming, Googling, shopping, etc., during class. It wastes your class-time—since you won’t learn anything during lecture if you’re distracted. I’m sympathetic to your desire to use your            laptop or tablet to view the online lecture notes and take notes of your own. I would encourage you instead to print out the online lecture notes the night before class, and to write your notes directly on the paper lecture notes. In my experience, it’s still faster and more accurate to take notes in class using paper and pen than to mark up a PDF file on your device.
 
 #### Grading
 
