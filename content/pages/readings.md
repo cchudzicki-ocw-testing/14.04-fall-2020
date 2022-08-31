@@ -129,7 +129,7 @@ Kinnan, C., and Townsend, R.M., 2012. “[Kinship and financial networks, formal
 
 **Topics covered:** Household Financial Accounts (income statement and balance sheet), household profiles with Life Cycle Maximization and a Wealth Planner for Thai Villages, bitcoin, statement of cash flow and distributed ledgers, cash management through the lens of dynamic models in Thailand, Sweden as a cashless economy and Kenya e-money, Trusted Third Party and the Decentralization issue of Ledgers
 
-\*Alvarez, Fernando, Anan Pawasutipaisit and Robert M. Townsend. 2018. “[Cash Management in Village Thailand: Positive and Normative Implications” (PDF).](http://economies.www.robertmtownsend.net/sites/default/files/files/papers/Ottowa-11-15-Townsend.pdf) Working Paper.
+\*Alvarez, Fernando, Anan Pawasutipaisit and Robert M. Townsend. 2018. “[Cash Management in Village Thailand: Positive and Normative Implications” (PDF - 1.7MB).](http://economies.www.robertmtownsend.net/sites/default/files/files/papers/Ottowa-11-15-Townsend.pdf) Working Paper.
 
 \* Samphantharak, K. and Townsend, R.M., 2009. Households as corporate firms: an analysis of household finance using integrated household surveys and corporate financial accounting. *Econometric Society Monographs* (Book 46). Cambridge University Press, Chs 2, 4.
 
@@ -185,7 +185,7 @@ Moll, B. R. M., Townsend and V. Zhorin. 2017. “[Economic development, flow of 
 
 **Topics covered:** China Shock, State Level Current Accounts, Measuring Wealth and Income, US Household Surveys are not Integrated Financial Accounts, Integrated Macro Accounts, Inequality and the top 1%, Distributional Accounts, the Difficulty of Gauging the Impact of Covid-19
 
-\*Chetty, Raj, John N. Friedman, Nathaniel Hendren, Michael Stepner, and the Opportunity Insights Team. 2020. “[How Did COVID-19 and Stabilization Policies Affect Spending and Employment? A New Real-Time Economic Tracker Based on Private Sector Data”(PDF)](https://www.nber.org/system/files/working_papers/w27431/w27431.pdf) Working paper
+\*Chetty, Raj, John N. Friedman, Nathaniel Hendren, Michael Stepner, and the Opportunity Insights Team. 2020. “[How Did COVID-19 and Stabilization Policies Affect Spending and Employment? A New Real-Time Economic Tracker Based on Private Sector Data”(PDF - 1.7MB)](https://www.nber.org/system/files/working_papers/w27431/w27431.pdf) Working paper
 
 \*Baker, Scott R. R.A. Farrokhnia, Steffen Meyer, Michaela Pagel, Constantine Yannelis. 2020. “[Income, Liquidity, and the Consumption Response to the 2020 Economic Stimulus Payments](https://www.nber.org/papers/w27097).” Working paper.
 
@@ -259,7 +259,7 @@ Dubey, Pradeep. (1982) “[Price-quantity Strategic Market Games.](https://www.j
 
 \*Arrow, K.J., 1969. “[The organization of economic activity: Issues pertinent to the choice of market versus nonmarket allocation" (PDF).](https://econ.ucsb.edu/~tedb/Courses/UCSBpf/readings/ArrowNonMktActivity1969.pdf) In The analysis and evaluation of public expenditure: the PPB-system. Washington DC: Joint Economic Committee, 91st Cong., 1st sess 1, pp. 59-73.
 
-\*Jain, Anil and Robert M. Townsend. 2019. “[The economics of platforms in a Walrasian setting" (PDF)](https://www.bis.org/events/eopix_1810/jain_paper.pdf).  Working paper.
+\*Jain, Anil and Robert M. Townsend. 2019. “[The Economics of Platforms in a Walrasian Framework" (PDF)](https://www.bis.org/events/eopix_1810/jain_paper.pdf).  Working paper.
 
 #### Lecture 21: Bubbles 
 
