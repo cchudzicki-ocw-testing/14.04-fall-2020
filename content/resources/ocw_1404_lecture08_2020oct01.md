@@ -12,7 +12,7 @@ learning_resource_types:
 - Lecture Videos
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Video
-title: 'Lecture 8: Risk-sharing Application'
+title: 'Lecture 8: Risk-Sharing Application'
 uid: 3bf62c1e-ea73-49c3-93bd-3e2085ae7b1b
 video_files:
   video_captions_file: /courses/14-04-intermediate-microeconomic-theory-fall-2020/1-Fl4eA5dZngcqSV_zrY6qvm-QdcdTeEo_transcript.webvtt
