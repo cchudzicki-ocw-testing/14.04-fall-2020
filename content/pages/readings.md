@@ -79,7 +79,7 @@ Ralph L. Beals. 1975. *Peasant Marketing System of Oaxaca, Mexico*. ISBN: 978052
 
 \*\[Kreps\] 7 "The Neoclassical Firm"
 
-Carvalho, Vasco M. and Nirei, Makoto and Saito, Yukiko and Tahbaz-Salehi, Alireza. "[Supply Chain Disruptions: Evidence from the Great East Japan Earthquake"(PDF)](https://www.econ.cam.ac.uk/research-files/repec/cam/pdf/cwpe1670.pdf). (December 11, 2016). Columbia Business School Research Paper No. 17-5.
+Carvalho, Vasco M. and Nirei, Makoto and Saito, Yukiko and Tahbaz-Salehi, Alireza. "[Supply Chain Disruptions: Evidence from the Great East Japan Earthquake"(PDF - 3.3MB)](https://www.econ.cam.ac.uk/research-files/repec/cam/pdf/cwpe1670.pdf). (December 11, 2016). Columbia Business School Research Paper No. 17-5.
 
 ### Lectures 5–6: Decisions Making Under Uncertainty, Linear Program, Dynamic Programs 
 
@@ -119,7 +119,7 @@ Carvalho, Vasco M. and Nirei, Makoto and Saito, Yukiko and Tahbaz-Salehi, Alirez
 
 \*Samphantharak, K., and Townsend, R.M. 2018, “[Risk and Return in Village Economies](https://www.aeaweb.org/articles?id=10.1257/mic.20160125).” *American Economic Journal: Microeconomics* 10 (1): 1–40, 2018.
 
-\*Kinnan, Cynthia, Krislert Samphantharak, Robert M. Townsend, and Diego Vera Cossio. 2020. “[Insurance and Propagation in Village Networks](https://www.nber.org/papers/w28089).” Working paper, MIT.
+\*Kinnan, Cynthia, Krislert Samphantharak, Robert M. Townsend, and Diego Vera Cossio. 2020. "[Propagation and Insurance in Village Networks](https://www.nber.org/papers/w28089).” Working paper, MIT.
 
 Kinnan, C., and Townsend, R.M., 2012. “[Kinship and financial networks, formal financial access, and risk reduction](https://www.aeaweb.org/articles?id=10.1257/aer.102.3.289).” *The American Economic Review*, 102(3): 289-293.
 
