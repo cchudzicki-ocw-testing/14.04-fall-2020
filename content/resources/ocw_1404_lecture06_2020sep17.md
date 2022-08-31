@@ -36,4 +36,4 @@ video_metadata:
     \ may be removed. More details at https://ocw.mit.edu/comments."
   youtube_id: aaLDUlJXXNM
 ---
-English villagers were able to store their harvest in inventory. Yet, despite facing starvation from future crop failure, they rarely stored enough to get beyond the following year. Dynamic economic models of decision-making, calibrating parameters from historical data, resolves the puzzle. The power of dynamic programming is revealed, along with some additional useful tools.
+English villagers were able to store their harvest in inventory. Yet, despite facing starvation from future crop failure, they rarely stored enough to get beyond the following year. Dynamic economic models of decision-making, calibrating parameters from historical data, resolve the puzzle. The power of dynamic programming is revealed, along with some additional useful tools.
