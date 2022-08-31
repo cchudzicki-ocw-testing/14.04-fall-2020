@@ -37,4 +37,4 @@ video_metadata:
     \ comments are not allowed and may be removed. More details at https://ocw.mit.edu/comments."
   youtube_id: 6Tm4bHa28Ck
 ---
-Village India is home to extreme poverty and enormous risks, including those that can affect one household but not others due to specialization in income sources, crops, and soil. Yet households in village India come close to an optimal allocation of risk bearing, achieved apparently through ex post borrowing/lending and gifts/transfers. In the medieval village, a primary mechanism was ex ante division of land, though portfolio diversification was imperfect.
+Village India is home to extreme poverty and enormous risks, including those that can affect one household but not others due to specialization in income sources, crops, and soil. Yet households in village India come close to an optimal allocation of risk bearing, achieved apparently through *ex post* borrowing/lending and gifts/transfers. In the medieval village, a primary mechanism was *ex ante* division of land, though portfolio diversification was imperfect.
