@@ -16,7 +16,7 @@ Lecture 1
 {{< tdclose >}}{{< tdopen >}}
 Introduction
 {{< tdclose >}}{{< tdopen >}}
-Pset 1 released
+Problem set 1 released
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Lecture 2
 {{< tdclose >}}{{< tdopen >}}
@@ -53,9 +53,9 @@ Lecture 5: 
 Uncertainty
 {{< tdclose >}}{{< tdopen >}}
 
-Pset 1 due
+Problem set 1 due
 
-Pset 2 released
+Problem set 2 released
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Lecture 6
@@ -86,7 +86,7 @@ Recitation 4
 {{< tdclose >}}{{< tdopen >}}
 Q & A 
 {{< tdclose >}}{{< tdopen >}}
-Pset 2 due
+Problem set 2 due
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Exam
 {{< tdclose >}}{{< tdopen >}}
@@ -96,9 +96,9 @@ Exam #1 (Covers materials from lectures 1–7)
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Lecture 8
 {{< tdclose >}}{{< tdopen >}}
-Risk-sharing Application I
+Risk-Sharing Application I
 {{< tdclose >}}{{< tdopen >}}
-Pset 3 released
+Problem set 3 released
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Recitation 5
 {{< tdclose >}}{{< tdopen >}}
@@ -108,7 +108,7 @@ Village India / Portfolio Choice
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Lecture 9
 {{< tdclose >}}{{< tdopen >}}
-Risk-sharing Application II
+Risk-Sharing Application II
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -135,9 +135,9 @@ Recitation 7
 Moral Hazard
 {{< tdclose >}}{{< tdopen >}}
 
-Pset 3 due
+Problem set 3 due
 
-Pset 4 released
+Problem set 4 released
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Lecture 12
@@ -154,7 +154,7 @@ Walrasian Equilibrium and International Trade
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Recitation 8
 {{< tdclose >}}{{< tdopen >}}
-2x2X2 model
+2x2x2 model
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -174,7 +174,7 @@ Recitation 9
 {{< tdclose >}}{{< tdopen >}}
 Q & A
 {{< tdclose >}}{{< tdopen >}}
-Pset 4 due
+Problem set 4 due
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Exam Review
 {{< tdclose >}}{{< tdopen >}}
@@ -192,7 +192,7 @@ Recitation 10
 {{< tdclose >}}{{< tdopen >}}
 Welfare Theorems
 {{< tdclose >}}{{< tdopen >}}
-Pset 5 released
+Problem set 5 released
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Lecture 16
 {{< tdclose >}}{{< tdopen >}}
@@ -246,7 +246,7 @@ Recitation 13
 {{< tdclose >}}{{< tdopen >}}
 Q & A
 {{< tdclose >}}{{< tdopen >}}
-Pset 5 due
+Problem set 5 due
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Exam Review
 {{< tdclose >}}{{< tdopen >}}
@@ -256,7 +256,7 @@ Exam #3 Review
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Exam
 {{< tdclose >}}{{< tdopen >}}
-Exam #3 (Covers material from all lectures.) 
+Exam #3 (Covers material from all lectures) 
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
