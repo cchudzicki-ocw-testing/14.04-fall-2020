@@ -12,7 +12,7 @@ learning_resource_types:
 - Lecture Videos
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Video
-title: 'Lecture 9: Risk-sharing with Production'
+title: 'Lecture 9: Risk-Sharing with Production'
 uid: e29417ca-9933-4fc0-bab3-2fdfb2a88b49
 video_files:
   video_captions_file: /courses/14-04-intermediate-microeconomic-theory-fall-2020/1Ls-r-p0EIi-fVT6BX_6tpxDDQkbsBVEl_transcript.webvtt
