@@ -36,4 +36,4 @@ video_metadata:
     \ comments are not allowed and may be removed. More details at https://ocw.mit.edu/comments."
   youtube_id: pAP1HKzueqc
 ---
-Micro and macro are often presented as two separate subfields of economics. When can they be reconciled with each other so that we can utilize the tools from both for economic science and to make statements about the welfare impacts of policy changes. When in the data might macro approximations be valid, and what are the indicators of micro foundations that must be made explicit and incorporated?
+Micro and macro are often presented as two separate subfields of economics. When can they be reconciled with each other so that we can utilize the tools from both for economic science and to make statements about the welfare impacts of policy changes? When in the data might macro approximations be valid, and what are the indicators of micro foundations that must be made explicit and incorporated?
