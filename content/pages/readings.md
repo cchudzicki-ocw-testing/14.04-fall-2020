@@ -79,7 +79,7 @@ Ralph L. Beals. 1975. *Peasant Marketing System of Oaxaca, Mexico*. ISBN: 978052
 
 \*\[Kreps\] 7 "The Neoclassical Firm"
 
-Carvalho, Vasco M., Nirei, Makoto, Saito, Yukiko, and Tahbaz-Salehi, Alireza. "[Supply Chain Disruptions: Evidence from the Great East Japan Earthquake"(PDF - 3.3MB)](https://www.econ.cam.ac.uk/research-files/repec/cam/pdf/cwpe1670.pdf). (December 11, 2016). Columbia Business School Research Paper No. 17-5.
+Carvalho, Vasco M., Nirei, Makoto, Saito, Yukiko, and Tahbaz-Salehi, Alireza. "[Supply Chain Disruptions: Evidence from the Great East Japan Earthquake" (PDF - 3.3MB)](https://www.econ.cam.ac.uk/research-files/repec/cam/pdf/cwpe1670.pdf). (December 11, 2016). Columbia Business School Research Paper No. 17-5.
 
 ### Lectures 5–6: Decision Making Under Uncertainty, Linear Program, Dynamic Programs 
 
@@ -185,7 +185,7 @@ Moll, B. R. M., Townsend and V. Zhorin. 2017. “[Economic development, flow of 
 
 **Topics covered:** China Shock, State Level Current Accounts, Measuring Wealth and Income, US Household Surveys are not Integrated Financial Accounts, Integrated Macro Accounts, Inequality and the top 1%, Distributional Accounts, the Difficulty of Gauging the Impact of Covid-19
 
-\*Chetty, Raj, John N. Friedman, Nathaniel Hendren, Michael Stepner, and the Opportunity Insights Team. 2020. “[How Did COVID-19 and Stabilization Policies Affect Spending and Employment? A New Real-Time Economic Tracker Based on Private Sector Data”(PDF - 1.7MB)](https://www.nber.org/system/files/working_papers/w27431/w27431.pdf) Working paper
+\*Chetty, Raj, John N. Friedman, Nathaniel Hendren, Michael Stepner, and the Opportunity Insights Team. 2020. “[How Did COVID-19 and Stabilization Policies Affect Spending and Employment? A New Real-Time Economic Tracker Based on Private Sector Data” (PDF - 1.7MB)](https://www.nber.org/system/files/working_papers/w27431/w27431.pdf) Working paper
 
 \*Baker, Scott R. R.A. Farrokhnia, Steffen Meyer, Michaela Pagel, Constantine Yannelis. 2020. “[Income, Liquidity, and the Consumption Response to the 2020 Economic Stimulus Payments](https://www.nber.org/papers/w27097).” Working paper.
 
@@ -219,7 +219,7 @@ Prescott, E., and R.M. Townsend. 1984. “[General competitive analysis in an ec
 
 \*\[Kreps\] 6.4 “Existence and The Number of Equilibria”
 
-Scarf, H.E., 1982. “The computation of equilibrium prices: an exposition.” In Arrow, Kenneth J., and Michael D. Intriligator (Eds.) [*Handbook of Mathematical Economics. Volume 2.*](https://www.sciencedirect.com/handbook/handbook-of-mathematical-economics/vol/2/suppl/C) 
+Scarf, H.E., 1982. “The computation of equilibrium prices: an exposition.” In Arrow, Kenneth J., and Michael D. Intriligator (Eds.) [*Handbook of Mathematical Economics. Volume 2.*](https://www.sciencedirect.com/handbook/handbook-of-mathematical-economics/vol/2/suppl/C)
 
 Amsterdam: North-Holland, pp. 1007-1061.
 
